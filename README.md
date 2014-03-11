@@ -3,15 +3,24 @@ java-web-showcase
 
 
 ## Core Framework
-  - J2EE v
-    - xx  
-  - Spring v
-  - Spring MVC
-  - DB ?
-  - logback
+  -  Web
+    - J2EE  
+  - IoC
+    - Spring v
+  - MVC
+    - Spring MVC 
+  - DB Client ?
+    - ? 
+  - log
+    - log4j
+    - logback
+  - Security
+    - Shiro 
+  - Test
+    - JUnit 4 
+  - Dev
+    - Maven 
+  - xxx
   
 
-## Assistant Framework
-  - Maven
-  - JUnit 4
-  - 
+
