@@ -20,6 +20,8 @@ java-web-showcase
     - JUnit 4 
   - Dev
     - Maven 
+  - CI
+    - Travis CI 
   - xxx
   
 
