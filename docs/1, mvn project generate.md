@@ -11,7 +11,8 @@ mvn archetype:create -DgroupId=com.depeng.web \
 
 ## create java folder
 
->mkdir -p src/main/java/com/depeng/web
->mkdir -p src/test/java
+ - mkdir -p src/main/java/com/depeng/web
+
+ - mkdir -p src/test/java
 
 
